@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Beatnik -Horse-",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-04T12:32:03.168373Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beatnik -Horse-",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Beatnik_-Horse-_sumika.txt"
+    }
+  ]
+}
